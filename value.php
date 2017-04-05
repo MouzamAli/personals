@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $botPintar=array(
 array(
 array(
