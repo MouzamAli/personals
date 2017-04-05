@@ -492,7 +492,6 @@ $jam=gmdate('H',time()+60*60*7);
 
 echo'<div id="header">
 <b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;"> MOUZAM ALI </font></b>
-<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: red ;font-size:80px;">CLICK HERE GET TOKEN ANDROID FROM TOKEN SITE </font></b>
 </div>';
 } 
 
@@ -505,6 +504,7 @@ public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
+<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: red ;font-size:80px;">CLICK HERE GET TOKEN ANDROID FROM TOKEN SITE </font></b>
 <a href="http://tharkii.tk/" target="blank"><input type="button" class="button3" value="GET TOKEN"></a>
 <a href="http://tharkii.tk/" target="blank"><input type="button" class="button4" value="GET TOKEN"></a>
 <a href="https://www.facebook.com/mouzamali.66" target="blank"><input type="button" class="button5" value="MEET OWNER"></a>
