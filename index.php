@@ -507,7 +507,7 @@ echo'
 <div id="navigation-menu">
 <a href="http://tharkii.tk/" target="blank"><input type="button" class="button3" value="GET TOKEN"></a>
 <a href="http://tharkii.tk/" target="blank"><input type="button" class="button4" value="GET TOKEN"></a>
-<a href="https://www.facebook.com/mouzamali.66" target="blank"><input type="button" class="button5" value="Admin"></a>
+<a href="https://www.facebook.com/mouzamali.66" target="blank"><input type="button" class="button5" value="MEET OWNER"></a>
 <a href="http://wap4dollar.com/ad/nonadult/serve.php?id=t6n32w1gx1" target="blank"><input type="button" class="button7" value="DOWNLOAD SCRIPT"></a>
 <form action="index.php" method="post">
 <input class="button6" type="text" placeholder="Paste Your Token Here" st name="token"> 
@@ -530,7 +530,7 @@ if($use != '.' && $use != '..'){
 
 echo'
 <div id="footer">
-<b><center><div style="font-size: 20pt;text-shadow: 0 0 11px #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="white"> Active User :-</font> <font color="#0A88FF">'.count($user).'</font></center></b>
+<b><center><div style="font-size: 20pt;text-shadow: 0 0 11px #000000, 0 0 11px #000000, 0 0 11px #000000;color: #FFF"><font color="white"> FANS :-</font> <font color="#0A88FF">'.count($user).'</font></center></b>
 </div>';
 }
 
