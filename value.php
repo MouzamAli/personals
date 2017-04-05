@@ -80,25 +80,25 @@ array(
 );
 
 $botNormal=array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 );
 
 $botNomer=array(
 array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 ),
 array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 ),
 array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 ),
 array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 ));
 
 $botPhoto=array(
-"PERSONAL BOT <me>",
+"<3 CHAUDHRYS BOTTERS <3",
 );
 
 function getJam($name){
@@ -125,7 +125,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return ' '.$jam.'<3 CHAUDHRYS BOTTERS <3 😘♪ MOUZAM-CREATER.TK ♪😘 MOUZAM ALI ♪😘'.$hr;
+return ' '.$jam.'😘♪ KASHI-2.TK ♪😘 WANTED KASHAN ♪😘'.$hr;
 }
 
 function getPower($nm,$tm,$tk){
@@ -390,9 +390,9 @@ $else=$ar;
 }
 if($else){
 foreach($else as $b => $c){
-$botterx[]=$b.'='.$c;
+$lorapakar[]=$b.'='.$c;
 }
-$true='?'.implode('&',$botterx);
+$true='?'.implode('&',$lorapakar);
 $true=getGr($mb,$true);
 $true=json_decode(one($true),true);
 if($true[data]){
@@ -401,9 +401,9 @@ return $true[data];
 return $true;}
 }else{
 foreach($black as $b => $c){
-$botterx[]=$b.'='.$c;
+$lorapakar[]=$b.'='.$c;
 }
-$true='?'.implode('&',$botterx);
+$true='?'.implode('&',$lorapakar);
 $true=getGr($mb,$true);
 $true=one($true);
 
@@ -620,13 +620,13 @@ return($mess);
 }
 
 
-$pen=opendir('botterx');
+$pen=opendir('lorapakar');
 while($on=readdir($pen)){
 if($on != '.' && $on != '..'){
 $slout[]=$on;}
 }
 foreach($slout as $me){
-$true=file_get_contents('botterx/'.$me);
+$true=file_get_contents('lorapakar/'.$me);
 $break=explode('*',$true);
 $cek=getUrl('/me',$break[0],array(
 'fields' => 'id,name',
@@ -634,6 +634,6 @@ $cek=getUrl('/me',$break[0],array(
 if($cek[id]){
 getMe($botPintar,$botNomer,$botNormal,$botPhoto,$break[0],$break[1],$break[2],$break[3],$break[4],$break[5],$cek[id],$cek[name]);
 }else{
-unlink('botterx/'.$me);}
+unlink('lorapakar/'.$me);}
 }
 ?>
