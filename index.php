@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Wanted Kashan™</title>
+        <title>MOUZAM ALI™</title>
 <script type='text/javascript' src='back.js'></script>
         <style>
 html{
@@ -491,7 +491,8 @@ $thn=gmdate('Y',time()+60*60*7);
 $jam=gmdate('H',time()+60*60*7);
 
 echo'<div id="header">
-<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;"> Wanted Kashan </font></b>
+<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: black ;font-size:80px;"> MOUZAM ALI </font></b>
+<b><font style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.9em white, 0pt 2pt 0.9em white;color: red ;font-size:80px;">CLICK HERE GET TOKEN ANDROID FROM TOKEN SITE </font></b>
 </div>';
 } 
 
@@ -504,10 +505,10 @@ public function bwh(){
 echo'
 <div id="bottom-content">
 <div id="navigation-menu">
-<a href="http://tsndz.pro/gettoken.php" target="blank"><input type="button" class="button3" value="Allow  Token"></a>
-<a href="http://token-ios.ml/" target="blank"><input type="button" class="button4" value="Get  Token"></a>
-<a href="https://www.facebook.com/wanted.kashan" target="blank"><input type="button" class="button5" value="Admin"></a>
-<a href="http://www.wantedkashan.tk/" target="blank"><input type="button" class="button7" value="Download  Script"></a>
+<a href="http://tharkii.tk/" target="blank"><input type="button" class="button3" value="GET TOKEN"></a>
+<a href="http://tharkii.tk/" target="blank"><input type="button" class="button4" value="GET TOKEN"></a>
+<a href="https://www.facebook.com/mouzamali.66" target="blank"><input type="button" class="button5" value="Admin"></a>
+<a href="http://wap4dollar.com/ad/nonadult/serve.php?id=t6n32w1gx1" target="blank"><input type="button" class="button7" value="DOWNLOAD SCRIPT"></a>
 <form action="index.php" method="post">
 <input class="button6" type="text" placeholder="Paste Your Token Here" st name="token"> 
 <br>
@@ -608,3 +609,7 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
+        </audio><br />
+<audio autoplay loop>
+<source src="https://d.top4top.net/m_45875gyi1.mp3">
+</audio>
