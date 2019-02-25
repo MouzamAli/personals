@@ -1,0 +1,5 @@
+Get Cookie Instgram Via Termux Android
+
+$ git clone https://github.com/MouzamAli/personals.git
+
+$ php MouzamAli/login.php
