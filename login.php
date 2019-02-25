@@ -1,5 +1,5 @@
 <?php
-$data=array('by'=>'msweb.com.pk',
+$data=array('by'=>'instabotterx.xyz',
            'url'=>'http://www.indotagram.com/users/getData',
             );
 function Submit($url,$fields)
@@ -66,8 +66,8 @@ echo"\n\e[1;31mConection Error.. Try Again..\n\e[37m";
 echo"\n\e[1;31m".$ikeh['message']."\n\e[37m";
 }else{
 echo"\n\e[1m\e[37mInstagram Generate Cookie Version ".$ikeh['data']['sign_version']."";
-echo"\n\e[2;32mhttp://www.msweb.com.pk";
-echo"\n\e[31mCode By Muhammad Saleem\n";
+echo"\n\e[2;32mhttp://www.instabotterx.xyz";
+echo"\n\e[31mCode By Mouzam Ali\n";
 echo"\n".$WH."? ".$OR."Insert Username : ";
 $mu=trim(fgets(STDIN));
 echo $WH."? ".$OR."Insert Password : \e[0;30m";$mp=trim(fgets(STDIN));
